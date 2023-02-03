@@ -1,5 +1,4 @@
-# CRA7_demo
-This is Demo project for CRA7_demo
+# ROS implementation of dynamic object avoidance
 
 ## Connect multiple device 
 Both client and server is setup with Ubuntu 18 and ROS
